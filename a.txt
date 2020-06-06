@@ -1,3 +1,7 @@
 "done"
 "entendendo o head"
+<<<<<<< HEAD
 ESTA LINHA FOI MODIFICADA NO RAMO MASTER
+=======
+ESTA LINHA FOI MODIFICADA NO RAMO "TESTE"
+>>>>>>> teste
